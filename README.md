@@ -20,9 +20,18 @@ Replace `BOT_SPAM_CHANNEL` with your channel where you want bot spam messages to
 
 
 ## Credits
-It was created by TechnoTim
+Created by TechnoTim with 💛
 
-[Techno Tim on YouTube](https://www.youtube.com/TechnoTimLive)
+🔔 Social Media 🔔
 
-[Techno Tim on Twitch](https://www.twitch.tv/technotim)
+► Twitch https://www.twitch.tv/TechnoTim
 
+► Twitter  https://twitter.com/TechnoTimLive
+
+► Discord https://discord.gg/DJKexrJ
+
+► Instagram https://www.instagram.com/techno.tim/
+
+► Facebook https://www.facebook.com/TechnoTimLive/
+
+► GitHub https://github.com/timothystewart6
