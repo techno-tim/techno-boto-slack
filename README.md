@@ -20,7 +20,7 @@ Replace `BOT_SPAM_CHANNEL` with your channel where you want bot spam messages to
 
 
 ## Credits
-Created by TechnoTim with 💛
+Created by Techno Tim with 💛
 
 🔔 Social Media 🔔
 
