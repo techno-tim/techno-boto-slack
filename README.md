@@ -10,6 +10,8 @@ Slack API - Create a classic app https://api.slack.com/apps?new_classic_app=1
 
 Slack Node SDK https://slack.dev/node-slack-sdk/
 
+Don't forget to ⭐ this repo and fork it too! 👆
+
 ## Getting started
 
 If you need help setting up your machine for JavaScript development, see https://www.youtube.com/watch?v=kL8iGErULiw
