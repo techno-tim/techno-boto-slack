@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@slack/rtm-api": "^6.0.0",
-    "@slack/web-api": "^5.10.0",
+    "@slack/web-api": "^6.7.1",
     "esm": "^3.2.25"
   }
 }
