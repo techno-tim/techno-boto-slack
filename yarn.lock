@@ -9,10 +9,10 @@
   dependencies:
     "@types/node" ">=8.9.0"
 
-"@slack/rtm-api@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@slack/rtm-api/-/rtm-api-6.1.0.tgz#ada82894600e16ce9a05732500cd8a68f3cf5469"
-  integrity sha512-2BB4qSFDXU/OTuc3eQWmk0fM/ODMoTCnPU871kQdbaFDqnwJsW7ze6nZ4Wtos6IakL/eix3d5v9aIpS0SXIq7Q==
+"@slack/rtm-api@^6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@slack/rtm-api/-/rtm-api-6.1.1.tgz#71ae29e1539057bda0432753c627080251ad2dde"
+  integrity sha512-xkXCJ0vu/dyMJyZHjqfLwzazmxskbp16RfRYkWn6B+f4CTp4W0uIkuCDEHoRfqt1N5foXBrvX1ibCLRPKU3uGQ==
   dependencies:
     "@slack/logger" ">=1.0.0 <3.0.0"
     "@slack/web-api" "^5.3.0"
