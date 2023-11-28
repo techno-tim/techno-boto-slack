@@ -10,7 +10,7 @@
   "author": "Techno Tim",
   "license": "ISC",
   "dependencies": {
-    "@slack/rtm-api": "^6.1.1",
+    "@slack/rtm-api": "^6.2.0",
     "@slack/web-api": "^5.10.0",
     "esm": "^3.2.25"
   }
